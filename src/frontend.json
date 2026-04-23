@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "name": "React",
+            "link": "https://react.dev/"
+        },
+        {
+            "name": "Vue",
+            "link": "https://vuejs.org/"
+        },
+        {
+            "name": "Angular",
+            "link": "https://angular.dev/"
+        },
+        {
+            "name": "Svelte",
+            "link": "https://svelte.dev/"
+        },
+        {
+            "name": "Solid",
+            "link": "https://www.solidjs.com/"
+        }
+    ]
+}
